@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This script defines two functions:
+## - makeCacheMatrix: creates a special matrix object that can cache its inverse.
+## - cacheSolve: computes the inverse of the special matrix, using a cached value if available.
 
 ## makeCacheMatrix creates a special "matrix" object that can cache its inverse.
 
